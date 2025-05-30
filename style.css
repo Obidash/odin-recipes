@@ -10,7 +10,7 @@ body
     border-style:groove;
     border-radius: 10px;
     border: 1px solid black;
-    background-color: white;
+    background-color: whitesmoke;
     
 }
 
@@ -27,12 +27,13 @@ body
     margin: 8px auto;
     
 }
-img
+img,.text
 {
     padding: 0px;
     margin-bottom: 1px;
     border-style:groove;
     border-radius: 10px;
     border: 1px solid black;
-    background-color: white;
+    background-color: whitesmoke;
 }
+
