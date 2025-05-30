@@ -1,6 +1,8 @@
 body
 {
     background-color: hsl(192, 40%, 55%);
+    border: 2px solid whitesmoke;
+    padding: 4px
 }
 
 .title,.button
